@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Athlisowski
+- 👋 Hi, I’m Arthur Lisowski
 - I'm a software development student!
 - I'm 22 years old.
 - I'm trying to work on my first projects.
